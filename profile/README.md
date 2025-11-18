@@ -18,7 +18,7 @@ icrane_ws/
     └── Livox-SDK2/             # Livox LiDAR SDK (dependency, not a ROS2 package)
 ```
 
-**Critical**: This workspace follows ROS2 conventions. The working directory `/Users/pedronunes/icrane_ws/src` contains package source code, but build commands must be run from `/Users/pedronunes/icrane_ws`.
+**Critical**: This workspace follows ROS2 conventions. The working directory `/icrane_ws/src` contains package source code, but build commands must be run from `/icrane_ws`.
 
 ## Build & Development Commands
 
